@@ -1,0 +1,210 @@
+body
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.box1
+{
+    text-align:left;
+    border:1px solid #23d5bd ;
+    background-color: #23d5bd;
+    width:500px; 
+    height:400px;
+    padding:30px;
+    margin:200px;
+    border-radius: 8px;
+}
+
+.size1
+{
+    font-size: 40px;
+}
+
+.button1
+{
+    width:200;
+    border-radius:30px;
+    padding:16px;
+    color:black;
+    border:none;
+    
+}
+
+
+.box2{
+    text-align:left;
+    border: 1px solid lightgray ;
+    width: 400px;
+   
+   
+    margin: 50px auto;
+    border-radius: 12px;
+}
+
+.padding2{
+    padding: 15px;
+}
+
+.text2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-size:15px;
+
+}
+
+.bx-user-circle {
+    color: #333; 
+    font-size:70px;
+    padding:25px;
+}
+
+.footer2{
+    color: blue;
+    border-top: 1px solid lightgray;
+}
+
+
+.padding22{
+    padding: 15px;
+}
+ 
+
+
+
+
+
+
+.box3
+    {
+        text-align:left;
+        border: 1px solid lightgray ;
+        width: 300px;
+        height:500px;
+        margin: 50px auto;
+        border-radius: 12px;
+        box-sizing: border-box;
+    }
+.img3
+    {
+        background-color: white;
+        font-size: 16px;
+        width:100%;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+    }
+
+.lock-alt
+    {
+        color:black;
+    }
+
+.padding3
+    {
+     padding: 12px;
+    }
+
+.text3
+    {
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:12px;
+    }
+
+.fa-lock
+        {
+            color: #333;
+            font-size: 20px;
+        }
+
+.button3
+    {
+        width:100;
+        border-radius:5px;
+        border:1px solid lightgray;
+        font-size: 16px;
+        padding: 10px 20px;
+        color:blue;
+        background-color: white;
+        margin:5px;
+    }
+
+
+
+
+
+
+
+.body
+{  
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+.image4
+    {
+        border-radius: 10px;
+        width:100%;
+    }
+
+.login4
+    {
+        text-align: center;
+        width: 290px;
+        margin:150px auto;
+    }
+
+.input4
+    {
+        border:1px solid lightgray;
+        width:100%;
+        margin-bottom:10px;
+        padding:20px;
+        box-sizing:border-box;
+        border-radius: 10px;
+    
+    }
+
+.font4
+{
+    font-size: 13px;
+    color: rgb(146, 144, 144);
+}
+
+.button4
+    {
+        width:80%;
+        box-sizing:border-box;
+        padding:16px;
+        font-size:15px;
+        border:none;
+        background-color: black;
+        color: white;
+        border-radius: 50px;
+    }
+
+.t1 {
+        color: rgb(146, 144, 144); 
+    }
+    
+.t2 {
+        text-decoration: underline;
+        color:black; 
+    }
+    
+
+.t3
+    {
+        text-decoration: underline;
+        text-align: center;
+        color: black;
+    }
+
+.t4
+    {
+       font-size: 13px;
+        text-align: center;
+        color: rgb(146, 144, 144);
+    }
+
+.t5
+    {
+        text-align: center;
+        color:rgb(146, 144, 144);
+    }
+
